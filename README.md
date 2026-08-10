@@ -4,15 +4,15 @@
 
 ## 🏅 Certificates of completion
 
-| Certification | Platform | Date |
+| Certification | Platform | File |
 |---|---|---|
-| Certificate of Completion #1 | TryHackMe | _add date_ |
-| Certificate of Completion #2 | TryHackMe | _add date_ |
+| Certificate of Completion #1 | TryHackMe | [tryhackme-certificate-1.png](tryhackme-certificate-1.png) |
+| Certificate of Completion #2 | TryHackMe | [tryhackme-certificate-2.png](tryhackme-certificate-2.png) |
 
 ## 🗂️ How certificates are stored
 
-Each certificate is saved in this repo as a PNG image or PDF with a clear, dated filename.
+Each certificate is saved in this repo as a PNG image with a clear, dated filename.
 
 ## 🚧 Status
 
-Under construction — certificates will be uploaded here.
+Certificates uploaded — dates/descriptions can be added on request.
