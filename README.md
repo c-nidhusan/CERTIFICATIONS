@@ -4,10 +4,10 @@
 
 ## 🏅 Certificates of completion
 
-| Certification | Platform | File |
+| Learning path | Platform | File |
 |---|---|---|
-| Certificate of Completion #1 | TryHackMe | [tryhackme-certificate-1.png](tryhackme-certificate-1.png) |
-| Certificate of Completion #2 | TryHackMe | [tryhackme-certificate-2.png](tryhackme-certificate-2.png) |
+| Pre Security | TryHackMe | [tryhackme-presecurity.png](tryhackme-presecurity.png) |
+| Cyber Security 101 | TryHackMe | [tryhackme-cybersecurity101.png](tryhackme-cybersecurity101.png) |
 
 ## 🗂️ How certificates are stored
 
@@ -15,4 +15,4 @@ Each certificate is saved in this repo as a PNG image with a clear, dated filena
 
 ## 🚧 Status
 
-Certificates uploaded — dates/descriptions can be added on request.
+Certificates uploaded — more coming as I complete new TryHackMe paths.
