@@ -8,6 +8,7 @@
 |---|---|---|
 | Pre Security | TryHackMe | [tryhackme-presecurity.png](tryhackme-presecurity.png) |
 | Cyber Security 101 | TryHackMe | [tryhackme-cybersecurity101.png](tryhackme-cybersecurity101.png) |
+| Jr PenTester | TryHackMe | [tryhackme-jrpentester.png](tryhackme-jrpentester.png) |
 
 ## 🗂️ How certificates are stored
 
